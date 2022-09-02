@@ -4,7 +4,7 @@ A tracking app where users can add what they are currently reading (book title a
 
 **Link to project:** Coming Soon
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://media.giphy.com/media/vzlc4Saigevx0i63hi/giphy.gif)
 
 ## How It's Made:
 
